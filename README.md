@@ -24,5 +24,7 @@ Los archivos se encontraran en el repositorio*
 1. ¿Cómo mapear las principales problemáticas de salud en alguna zona Bogotá?
 2. ¿Cómo divulgar un servicio de salud?
 3. ¿Cómo optimizar los tratamientos de salud?
-4. 
+4. ¿Cómo apoyar el sistema de salud en Bogotá a través de la tecnología?
+5. ¿Cómo comprender las problemáticas en el área de salud en Bogotá?
+6. ¿Cómo abordar correctamente las soluciones a las problemáticas en el área de salud?
 ---
