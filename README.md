@@ -1,6 +1,6 @@
 # Keystone_PatchMeUp
 
-**PatchMeUp** es un proyecto que combina ingeniería, matemáticas y tecnología para desarrollar soluciones innovadoras en el ámbito de la salud y rehabilitación. Nuestro objetivo es aplicar tecnología de vanguardia para mejorar los procesos de recuperación y accesibilidad a tratamientos.
+**PatchMeUp** es un proyecto que combina ingeniería, matemáticas y tecnología para desarrollar soluciones innovadoras en el ámbito de la salud y rehabilitación. Nuestro objetivo es aplicar tecnología de vanguardia.
 
 ---
 
