@@ -27,4 +27,8 @@ Los archivos se encontraran en el repositorio*
 4. ¿Cómo apoyar el sistema de salud en Bogotá a través de la tecnología?
 5. ¿Cómo comprender las problemáticas en el área de salud en Bogotá?
 6. ¿Cómo abordar correctamente las soluciones a las problemáticas en el área de salud?
+7. ¿Cómo desarrollar herramientas digitales que mejoren la precisión y rapidez en los diagnósticos médicos en Bogotá?
+8. ¿Cómo facilitar el acceso a la rehabilitación para personas con movilidad reducida en Bogotá?
+9. ¿Cómo aprovechar la tecnología para acercar servicios de salud a comunidades en condición de vulnerabilidad?
+10. ¿Cómo mejorar la educación y concienciación en salud a través de herramientas tecnológicas?
 ---
