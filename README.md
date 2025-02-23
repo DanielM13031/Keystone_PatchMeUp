@@ -32,3 +32,12 @@ Los archivos se encontraran en el repositorio*
 9. ¿Cómo aprovechar la tecnología para acercar servicios de salud a comunidades en condición de vulnerabilidad?
 10. ¿Cómo mejorar la educación y concienciación en salud a través de herramientas tecnológicas?
 ---
+## ✅ Tercera Sesión: Validación y Iteración del Logo  
+En esta sesión, se realizó una encuesta para validar las opciones de logo propuestas. A partir de los comentarios y resultados obtenidos, se realizó una nueva iteración en el diseño, logrando así definir el logo final del proyecto.
+
+🔹 *Resultados clave:*  
+- Recopilación de opiniones para identificar la opción más representativa.  
+- Ajustes en tipografía, paleta de colores y elementos gráficos.  
+- Selección del logo definitivo que será utilizado en toda la identidad visual del proyecto.  
+- En el repositorio se encuentran los resultados de la encuesta
+---
