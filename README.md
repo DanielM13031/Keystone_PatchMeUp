@@ -42,3 +42,14 @@ En esta sesión, se realizó una encuesta para validar las opciones de logo prop
 - En el repositorio se encuentran los resultados de la encuesta
 - En el repositorio se encuentra el logo definitivo
 ---
+## 🎥 Cuarta Sesión: Creación del Video de Presentación  
+En esta sesión, se desarrolló un video corto sin diálogos, en el que se presenta de manera cómica el problema que **PatchMeUp** busca solucionar. 
+
+🔹 *Características del video:*  
+- Uso de escenas humorísticas para ilustrar el problema.  
+- Representación visual clara y llamativa del desafío que enfrentan los usuarios.  
+- Introducción del proyecto como una solución innovadora de forma creativa y entretenida.  
+
+El video tiene como objetivo captar la atención del público y generar interés en la iniciativa de **PatchMeUp**.  
+
+---
