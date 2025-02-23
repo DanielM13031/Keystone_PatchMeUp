@@ -40,4 +40,5 @@ En esta sesión, se realizó una encuesta para validar las opciones de logo prop
 - Ajustes en tipografía, paleta de colores y elementos gráficos.  
 - Selección del logo definitivo que será utilizado en toda la identidad visual del proyecto.  
 - En el repositorio se encuentran los resultados de la encuesta
+- En el repositorio se encuentra el logo definitivo
 ---
