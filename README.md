@@ -53,3 +53,52 @@ En esta sesión, se desarrolló un video corto sin diálogos, en el que se prese
 El video tiene como objetivo captar la atención del público y generar interés en la iniciativa de **PatchMeUp**.  
 
 ---
+
+## 💡 Quinta Sesión: Ideación de Soluciones  
+En esta sesión, se presentaron diapositivas con **10 ideas de productos** que podrían abordar el reto de salud y rehabilitación planteado. Cada idea fue evaluada en términos de viabilidad, impacto y nivel de innovación.
+
+🔹 *Algunas de las ideas presentadas:*  
+1. **smart restl**.  
+2. **smart brace**.  
+3. **Visionary**.  
+4. **Terra Trek**.  
+5. **BIO SKIN**.  
+6. **EchoSense**.  
+7. **NeuroBalance**.  
+8. **RespiraTech**.  
+9. **MindLink**.  
+10. **PatchCore Tracker**.
+📑 **Ver diapositivas de las ideas:**  
+[Presentación en Canva](https://www.canva.com/design/DAGhS3S_yN0/oc0E_w1mO5_FtHQnz2RMAg/edit?utm_content=DAGhS3S_yN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+
+🔹 *Resultados clave:*  
+- Se identificaron los productos con mayor potencial de impacto.  
+- Se realizó una discusión sobre la factibilidad de cada idea.  
+- Se seleccionaron las mejores propuestas para continuar el desarrollo.  
+
+---
+
+## 📊 Sexta Sesión: Selección de las Ideas con Mayor Potencial  
+Para evaluar las propuestas presentadas en la sesión anterior, se realizó una encuesta en la que se valoraron tres factores clave:  
+
+- **Utilidad:** Grado en que la idea responde a las necesidades del usuario y aporta valor en el contexto de salud y rehabilitación.  
+- **Novedad:** Nivel de innovación y diferenciación respecto a soluciones existentes.  
+- **Factibilidad:** Posibilidad de implementación considerando recursos, tecnología y viabilidad técnica.  
+
+Con base en los resultados obtenidos, se seleccionaron las ideas con mayor potencial para ser desarrolladas en las siguientes fases del proyecto empezando con el esquema tecnico y visual.  
+
+🔹 *Ideas mejor valoradas:*  
+1. **PatchCore Tracker**.  
+2. **Visionary**.  
+3. **Smart Rest**.  
+
+📑 **Ver diapositivas de los resultados:**  
+[Presentación en Canva](https://www.canva.com/design/DAGh8vbjsEs/z7xd0tZedwriHUvFVEP3ew/edit?utm_content=DAGh8vbjsEs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+
+
+Estas soluciones serán la base para la siguiente fase del proyecto, donde se definirán los primeros prototipos y se analizarán los requerimientos técnicos.
+
+
+---
+
+📌 **¡Contribuye o síguenos para estar al tanto del progreso!**
