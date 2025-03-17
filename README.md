@@ -68,6 +68,7 @@ En esta sesión, se presentaron diapositivas con **10 ideas de productos** que p
 8. **RespiraTech**.  
 9. **MindLink**.  
 10. **PatchCore Tracker**.
+
 📑 **Ver diapositivas de las ideas:**  
 [Presentación en Canva](https://www.canva.com/design/DAGhS3S_yN0/oc0E_w1mO5_FtHQnz2RMAg/edit?utm_content=DAGhS3S_yN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
