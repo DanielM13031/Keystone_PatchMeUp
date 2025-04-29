@@ -118,12 +118,6 @@ En esta sesión, se inició la fase de investigación técnica enfocada en el de
 
 ---
 
-## Estado Actual del Proyecto
- 
-Las siguientes etapas contemplan el desarrollo de un primer modelo funcional, pruebas de validación y ajustes iterativos.
-
----
-
 ## Tecnologías Utilizadas
 
 - Canva (diseño gráfico y presentaciones)
