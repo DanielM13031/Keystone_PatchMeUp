@@ -102,4 +102,61 @@ Estas soluciones serán la base para la siguiente fase del proyecto, donde se de
 
 ---
 
+## Séptima Sesión: Inicio de Investigación Técnica para *Visionary*
+
+En esta sesión, se inició la fase de investigación técnica enfocada en el desarrollo de la solución seleccionada: **Visionary**.
+
+🔹 **Actividades realizadas:**
+- Definición preliminar de los requerimientos funcionales y técnicos del producto.
+- Búsqueda de tecnologías, componentes y metodologías aplicables para la construcción del prototipo.
+- Análisis de factibilidad técnica y desafíos potenciales para el proyecto.
+
+🔹 **Resultados clave:**
+- Se recopiló información sobre sensores de distancia, módulos de vibración, procesamiento de señales, y posibles plataformas de desarrollo (Arduino, ESP32, Raspberry Pi).
+- Se establecieron los primeros criterios para la elección de hardware y software.
+- Se planteó un esquema preliminar del flujo de funcionamiento de *Visionary*.
+
+---
+
+## Estado Actual del Proyecto
+ 
+Las siguientes etapas contemplan el desarrollo de un primer modelo funcional, pruebas de validación y ajustes iterativos.
+
+---
+
+## Tecnologías Utilizadas
+
+- Canva (diseño gráfico y presentaciones)
+- Arduino IDE (desarrollo de hardware)
+- ESP32 / Raspberry Pi (plataformas de hardware)
+- Motor de vibracion tipo moneda
+- Sensor laser VL53L0X
+- Modulo de camara para ESP32
+- Visual Studio Code
+- GitHub (gestión de versiones y documentación)
+
+---
+## Octava Sesión: Presentación del Primer Prototipo Funcional
+
+En esta sesión, se presentó el **primer prototipo de funcionalidad** de **Visionary**, basado en los requerimientos definidos y la investigación técnica previa.
+
+🔹 **Actividades realizadas:**
+- Demostración inicial del flujo básico de funcionamiento del prototipo.
+- Pruebas preliminares de sensado de distancia y activación del sistema de vibración.
+- Evaluación de la respuesta del hardware frente a distintos escenarios de uso.
+- Recopilación de retroalimentación para identificar mejoras necesarias.
+
+🔹 **Resultados clave:**
+- Confirmación de la viabilidad técnica del concepto.
+- Identificación de áreas de mejora en precisión de sensado y respuesta del sistema de vibración.
+- Planificación de siguientes iteraciones para optimizar el rendimiento y la ergonomía del dispositivo.
+
+---
+
+## Estado Actual del Proyecto
+
+Actualmente estamos en la fase de prototipado y pruebas funcionales de **Visionary**.  
+Las siguientes etapas contemplan mejoras de precisión, validaciones de uso y optimización del diseño final.
+
+---
 📌 **¡Contribuye o síguenos para estar al tanto del progreso!**
